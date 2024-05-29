@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nagar/Desktop/foviatech/tasks/mlflow_exp/mlflow/mlruns/0/8e5176aacc03430287e1d4720b1e5844/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e5176aacc03430287e1d4720b1e5844
+run_name: silent-stork-29
+run_uuid: 8e5176aacc03430287e1d4720b1e5844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716995537208
+status: 1
+tags: []
+user_id: nagar
