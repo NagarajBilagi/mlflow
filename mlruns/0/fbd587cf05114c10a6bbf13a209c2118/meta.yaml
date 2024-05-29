@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nagar/Desktop/foviatech/tasks/mlflow_exp/mlflow/mlruns/0/fbd587cf05114c10a6bbf13a209c2118/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd587cf05114c10a6bbf13a209c2118
+run_name: dashing-quail-111
+run_uuid: fbd587cf05114c10a6bbf13a209c2118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716983894903
+status: 1
+tags: []
+user_id: nagar

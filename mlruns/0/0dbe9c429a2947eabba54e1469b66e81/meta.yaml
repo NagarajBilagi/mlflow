@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nagar/Desktop/foviatech/tasks/mlflow_exp/mlflow/mlruns/0/0dbe9c429a2947eabba54e1469b66e81/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dbe9c429a2947eabba54e1469b66e81
+run_name: salty-wren-448
+run_uuid: 0dbe9c429a2947eabba54e1469b66e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716983233655
+status: 1
+tags: []
+user_id: nagar

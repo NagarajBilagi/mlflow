@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nagar/Desktop/foviatech/tasks/mlflow_exp/mlflow/mlruns/0/2ea62559b9b64409ab65465d480a9b53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ea62559b9b64409ab65465d480a9b53
+run_name: suave-pug-971
+run_uuid: 2ea62559b9b64409ab65465d480a9b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716983038634
+status: 1
+tags: []
+user_id: nagar
